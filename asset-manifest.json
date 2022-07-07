@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/storybooks/static/css/main.81f6ab0b.css",
+    "main.js": "/storybooks/static/js/main.393dbc0a.js",
+    "static/js/787.51550445.chunk.js": "/storybooks/static/js/787.51550445.chunk.js",
+    "static/media/profile.jpg": "/storybooks/static/media/profile.0254c990604d03e10317.jpg",
+    "static/media/introScreen.png": "/storybooks/static/media/introScreen.cd123c69452a0885f11b.png",
+    "static/media/graph-chart.png": "/storybooks/static/media/graph-chart.919a55d777792384d4af.png",
+    "static/media/eye-slash-regular.svg": "/storybooks/static/media/eye-slash-regular.68b9bf50474006575af8bb911db28261.svg",
+    "index.html": "/storybooks/index.html",
+    "static/media/pencil-alt-solid.svg": "/storybooks/static/media/pencil-alt-solid.ac1c4fa25b9c91fb80b7d04a1f4ffb9c.svg",
+    "static/media/comment-regular.svg": "/storybooks/static/media/comment-regular.c43f3f13d6be1f51f49e9a7aed0e9989.svg",
+    "static/media/eye-regular.svg": "/storybooks/static/media/eye-regular.ef9f7591b0fbd03304311836a3f48f8a.svg",
+    "static/media/check-solid.svg": "/storybooks/static/media/check-solid.c5fdcfa474f07e3a788ee2b855020cba.svg",
+    "static/media/heart-solid.svg": "/storybooks/static/media/heart-solid.3a1f62761f3745484ce2222ba973c555.svg",
+    "main.81f6ab0b.css.map": "/storybooks/static/css/main.81f6ab0b.css.map",
+    "main.393dbc0a.js.map": "/storybooks/static/js/main.393dbc0a.js.map",
+    "787.51550445.chunk.js.map": "/storybooks/static/js/787.51550445.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81f6ab0b.css",
+    "static/js/main.393dbc0a.js"
+  ]
+}
